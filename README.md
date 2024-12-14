@@ -2,6 +2,7 @@
 
 This C++ contains many related materials, including personal information, curriculum, and administrative information for students and administrators. The program includes functions such as main menu, user registration, application review, performance management and performance evaluation. It includes procedures for managing tasks such as adding new administrators, logging in as an existing administrator, and viewing student grades. For students, the program allows them to register by filling out online forms, checking applications, initiating questions online, and viewing their work on the quality list. The survey section consists of several questions whose answers are analyzed to calculate the user's score. It also ensures data integrity through multiple authentication and stores user data in text files for persistent storage and retrieval. The program is interactive and guides the user through different options and procedures through a command line interface.
 
+
 - User registration
 - Application review
 - Performance evaluation
