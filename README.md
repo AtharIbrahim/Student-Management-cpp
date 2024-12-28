@@ -32,4 +32,3 @@ The program ensures data integrity, stores user data in text files, and provides
 
 <img src="https://github.com/AtharIbrahim/Student-Management-cpp/blob/main/Screenshot/User%20Registration.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 
-
